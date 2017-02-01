@@ -33,7 +33,7 @@ namespace Pioneer.Console.Boilerplate
             // build configuration
             var configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile($"app-settings.json", true)
+                .AddJsonFile("app-settings.json", false)
                 .Build();
             serviceCollection.AddOptions();
             serviceCollection.Configure<AppSettings>(configuration.GetSection("Configuration"));
