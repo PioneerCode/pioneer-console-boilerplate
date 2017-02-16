@@ -1,0 +1,11 @@
+{
+  "author": "Chad Ramos <chad@pioneercode.com>",
+  "classifications": [ ".NET Core", "Console", "Dependecy Injection", "Logging", "Configuration", "Boilerplate" ],
+  "name": "Dependency Injection, Logging and Configuration In A .NET Core Console Application with Pioneer.Console.Boilerplate",
+  "tags": {
+    "language": "C#"
+  },
+  "identity": "Pioneer.Console.Boilerplate",
+  "shortName": "consoleboilerplate",
+  "sourceName": "Pioneer.Console.Boilerplate"
+}

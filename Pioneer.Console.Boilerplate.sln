@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Pioneer.Console.Boilerplate", "Pioneer.Console.Boilerplate\Pioneer.Console.Boilerplate.xproj", "{D1C4AB83-C553-4E3B-8E75-C9E76498206B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pioneer.Console.Boilerplate", "Pioneer.Console.Boilerplate\Pioneer.Console.Boilerplate.csproj", "{D1C4AB83-C553-4E3B-8E75-C9E76498206B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAF4E3F5-A078-48A6-B5A0-16C206FB25F8}"
+	ProjectSection(SolutionItems) = preProject
+		.netnew.json = .netnew.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

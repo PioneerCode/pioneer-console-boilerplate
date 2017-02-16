@@ -1,0 +1,11 @@
+{
+  "author": "Chad Ramos <chad@pioneercode.com>",
+  "classifications": [ "Console", "Boilerplate", "Dependecy Injection", "Logging", "Configuration" ],
+  "name": "Pioneer Code: Console Application with dependecy injection, logging & configuration.",
+  "tags": {
+    "language": "C#"
+  },
+  "identity": "Pioneer.Console.Boilerplate",
+  "shortName": "consoleboilerplate",
+  "sourceName": "Pioneer.Console.Boilerplate"
+}
