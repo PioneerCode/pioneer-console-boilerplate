@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Pioneer.Console.Boilerplate</id>
+        <version>0.1.0</version>
+        <description>Pioneer Code: .NET Core Console Application with dependecy injection, logging & configuration</description>
+        <authors>Chad Ramos <chad@pioneercode.com></authors>
+        <language>en-US</language>
+        <projectUrl>https://github.com/PioneerCode/pioneer-console-boilerplate</projectUrl>
+        <licenseUrl>https://github.com/PioneerCode/pioneer-console-boilerplate/blob/master/LICENSE</licenseUrl>
+        <copyright>Copyright © Chad Ramos & Pioneer Code. All right Reserved.</copyright>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+</package>
