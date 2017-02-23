@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Pioneer.Console.Boilerplate</id>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
     <title>Pioneer Code Console Boilerplate</title>
     <authors>Chad Ramos (pioneercode.com)</authors>
     <description>Pioneer Code: .NET Core Console Application with dependecy injection, logging &amp; configuration</description>
@@ -16,4 +16,7 @@
       <packageType name="Template" />
     </packageTypes>
   </metadata>
+    <files>
+    <file src="**" exclude="**\bin\**\*;**\obj\**\*;**\*.user;**\*.lock.json" />
+  </files>
 </package>
