@@ -23,7 +23,7 @@ namespace Pioneer.Console.Boilerplate
 
         public void Run()
         {
-            _logger.LogInformation($"This is a console application for {_config.Title}");
+            _logger.LogInformation($"This is a console application for {_config.ConsoleTitle}");
             _testService.Run();
             System.Console.ReadKey();
         }

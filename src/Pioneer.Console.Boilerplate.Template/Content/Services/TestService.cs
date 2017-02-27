@@ -23,7 +23,7 @@ namespace Pioneer.Console.Boilerplate.Services
 
         public void Run()
         {
-            _logger.LogWarning($"Wow! We are now in the test service of: {_config.Title}");
+            _logger.LogWarning($"Wow! We are now in the test service of: {_config.ConsoleTitle}");
         }
     }
 }
