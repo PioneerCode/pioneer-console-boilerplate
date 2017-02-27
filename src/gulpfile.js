@@ -4,8 +4,7 @@ var del = require('del');
 
 function clean() {
   return del([
-    'Pioneer.Console.Boilerplate.Template/Content/**/*',
-    'Pioneer.Console.Boilerplate.Template/Content/.template.config/**/*'
+    'Pioneer.Console.Boilerplate.Template/Content/**/*'
   ]);
 }
 
@@ -19,12 +18,6 @@ function move() {
     .pipe(gulp.dest('Pioneer.Console.Boilerplate.Template/Content'));
 }
 
-function moveTemplate() {
-  return gulp.src([
-    'Pioneer.Console.Boilerplate/.template.config/**/*'
-  ])
-    .pipe(gulp.dest('Pioneer.Console.Boilerplate.Template/Content/.template.config/'));
-}
 
 gulp.task('clean', gulp.series(clean));
-gulp.task('default', gulp.series(clean, move, moveTemplate));
+gulp.task('default', gulp.series(clean, move));

@@ -1,4 +1,4 @@
-{
+﻿{
   "author": "Chad Ramos <chad@pioneercode.com>",
   "classifications": [ "Console", "Boilerplate", "Dependecy Injection", "Logging", "Configuration" ],
   "name": "Pioneer Code: Console Application with dependecy injection, logging & configuration.",
@@ -6,6 +6,6 @@
     "language": "C#"
   },
   "identity": "Pioneer.Console.Boilerplate",
-  "shortName": "consoleboilerplate",
+  "shortName": "pioneer-console",
   "sourceName": "Pioneer.Console.Boilerplate"
 }
