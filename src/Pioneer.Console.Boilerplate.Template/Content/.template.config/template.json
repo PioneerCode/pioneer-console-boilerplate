@@ -6,6 +6,6 @@
     "language": "C#"
   },
   "identity": "Pioneer.Console.Boilerplate",
-  "shortName": "consoleboilerplate",
+  "shortName": "pioneer-console",
   "sourceName": "Pioneer.Console.Boilerplate"
 }

@@ -2,21 +2,23 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Pioneer.Console.Boilerplate</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <title>Pioneer Code Console Boilerplate</title>
     <authors>Chad Ramos (pioneercode.com)</authors>
     <description>Pioneer Code: .NET Core Console Application with dependecy injection, logging &amp; configuration</description>
     <copyright>Copyright 2017: Chad Ramos - Pioneer Code. All right Reserved.</copyright>
-    <tags>Boilerplate .NET Core Console Dependecy Injection Logging Configuration</tags>
+    <tags>Pioneer Code Boilerplate .NET Core Console Dependecy Injection Logging Configuration Chad Ramos</tags>
     <language>en-US</language>
+    <iconUrl>http://pioneercode.com/images/logo-large.png</iconUrl>
     <projectUrl>https://github.com/PioneerCode/pioneer-console-boilerplate</projectUrl>
     <licenseUrl>https://github.com/PioneerCode/pioneer-console-boilerplate/blob/master/LICENSE</licenseUrl>
+    <releaseNotes>Meta Updates.</releaseNotes>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
   </metadata>
-    <files>
+  <files>
     <file src="**" exclude="**\bin\**\*;**\obj\**\*;**\*.user;**\*.lock.json" />
   </files>
 </package>
