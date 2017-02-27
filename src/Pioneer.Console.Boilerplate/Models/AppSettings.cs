@@ -2,6 +2,9 @@
 {
     public class AppSettings
     {
-        public string Title { get; set; }
+        /// <summary>
+        /// Sets header title in console window
+        /// </summary>
+        public string ConsoleTitle { get; set; }
     }
 }

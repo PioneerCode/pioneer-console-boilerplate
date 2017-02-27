@@ -7,5 +7,14 @@
   },
   "identity": "Pioneer.Console.Boilerplate",
   "shortName": "pioneer-console",
-  "sourceName": "Pioneer.Console.Boilerplate"
+  "sourceName": "Pioneer.Console.Boilerplate",
+  "symbols": {
+    "title": {
+      "type": "parameter",
+      "datatype": "string",
+      "replaces": "CONSOLE-TITLE",
+      "defaultValue": "Pioneer Console Boilerplate",
+      "description": "Title that shows up in header of console."
+    }
+  }
 }

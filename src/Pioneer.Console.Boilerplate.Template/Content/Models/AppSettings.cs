@@ -2,6 +2,9 @@ namespace Pioneer.Console.Boilerplate.Models
 {
     public class AppSettings
     {
-        public string Title { get; set; }
+        /// <summary>
+        /// Sets header in console window
+        /// </summary>
+        public string ConsoleTitle { get; set; }
     }
 }
