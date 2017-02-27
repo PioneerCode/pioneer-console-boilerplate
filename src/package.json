@@ -1,0 +1,15 @@
+{
+  "author": "Chad Ramos <jedi_obi_wan_@hotmail.com>",
+  "description": "Pioneer Console Boilerplate",
+  "version": "1.0.0",
+  "name": "pioneer-console-boilerplate",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PioneerCode/pioneer-console-boilerplate"
+  },
+  "devDependencies": {
+    "del": "2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0"
+  }
+}
