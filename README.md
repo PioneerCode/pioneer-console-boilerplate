@@ -36,7 +36,7 @@ dotnew new pioneer-conosle -h
 
 | Config Parameter | Description |
 | :---             | :---        |
-| --title | Replaces Console Title in console window header |
+| --title | Replaces title in console window header. |
 
 ### Meta
 This came to life after I wrote the following blog posts.
