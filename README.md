@@ -1,4 +1,4 @@
-!Pioneer .NET Core Console Boilerplate
+#Pioneer .NET Core Console Boilerplate
 Boilerplated .NET Core console application that includes dependency injection, logging and configuration. 
 
 ## Requirements
