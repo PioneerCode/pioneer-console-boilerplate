@@ -1,12 +1,22 @@
-# Pioneer .NET Core Console Boilerplate
+!Pioneer .NET Core Console Boilerplate
 Boilerplated .NET Core console application that includes dependency injection, logging and configuration. 
 
-This project requries VS 2017 & up.  The project.json file has been migrated to .csproj. 
+## Requirements
+The project.json file has been migrated to .csproj and will require the latest [.NET](https://dot.net) tooling. Of which is available in  Visual Sudio 2017 & up.
 
-This project can now be accessed as a dotnet new template via it's NuGet feeed located at [Pioneer.Console.Boilerplate](https://www.nuget.org/packages/Pioneer.Console.Boilerplate/)- 
+## How do I get it
+
+### Nuget
+[Pioneer.Console.Boilerplate](https://www.nuget.org/packages/Pioneer.Console.Boilerplate/)- 
 
 ```bash
 dotnet new -i Pioneer.Console.Boilerplate::*
+```
+
+### Git 
+
+```bash
+https://github.com/PioneerCode/pioneer-console-boilerplate.git
 ```
 
 More info located at 
