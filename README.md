@@ -23,13 +23,13 @@ https://github.com/PioneerCode/pioneer-console-boilerplate.git
 Once the template is installed and available in  ```dotnet new```, you can run the following to scaffold your new project using this template.
 
 ```bash
-dotnet new pioneer-conosle -n "MyName"
+dotnet new pioneer-console -n "MyName"
 ```
 
 For additional information about config switches for the template, run the following...
 
 ```bash
-dotnet new pioneer-conosle -h
+dotnet new pioneer-console -h
 ```
 
 ### Configuration
