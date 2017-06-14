@@ -5,7 +5,6 @@ using Pioneer.Console.Boilerplate.Services;
 
 namespace Pioneer.Console.Boilerplate
 {
-
     public class App
     {
         private readonly ITestService _testService;
