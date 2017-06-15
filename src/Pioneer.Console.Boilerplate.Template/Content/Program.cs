@@ -1,10 +1,10 @@
-using System;
 using System.IO;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Pioneer.Console.Boilerplate.Models;
 using Pioneer.Console.Boilerplate.Services;
+
 namespace Pioneer.Console.Boilerplate
 {
     public class Program
@@ -51,6 +51,5 @@ namespace Pioneer.Console.Boilerplate
         {
             System.Console.Title = configuration.GetSection("Configuration:ConsoleTitle").Value;
         }
-
     }
 }

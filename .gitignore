@@ -241,3 +241,6 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 /Pioneer.Console.Boilerplate/nuget.exe
+/src/package-lock.json
+/src/Pioneer.Console.Boilerplate.Template/nuget.exe
+/src/nuget.exe

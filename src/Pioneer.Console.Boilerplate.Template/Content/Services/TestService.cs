@@ -9,7 +9,7 @@ namespace Pioneer.Console.Boilerplate.Services
         void Run();
     }
 
-    class TestService : ITestService
+    public class TestService : ITestService
     {
         private readonly ILogger<TestService> _logger;
         private readonly AppSettings _config;

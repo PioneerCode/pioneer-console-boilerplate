@@ -18,6 +18,5 @@ function move() {
     .pipe(gulp.dest('Pioneer.Console.Boilerplate.Template/Content'));
 }
 
-
 gulp.task('clean', gulp.series(clean));
 gulp.task('default', gulp.series(clean, move));

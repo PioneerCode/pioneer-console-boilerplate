@@ -2,17 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Pioneer.Console.Boilerplate</id>
-    <version>1.0.5</version>
-    <title>Pioneer Code Console Boilerplate</title>
-    <authors>Chad Ramos (pioneercode.com)</authors>
+    <version>1.0.6</version>
     <description>Pioneer Code: .NET Core Console Application with dependency injection, logging &amp; configuration</description>
+    <authors>Chad Ramos (pioneercode.com)</authors>
+    <title>Pioneer Code Console Boilerplate</title>
     <copyright>Copyright 2017: Chad Ramos - Pioneer Code. All right Reserved.</copyright>
     <tags>Pioneer Code Boilerplate .NET Core Console Dependency Injection Logging Configuration Chad Ramos</tags>
     <language>en-US</language>
     <iconUrl>http://pioneercode.com/images/logo-large.png</iconUrl>
     <projectUrl>https://github.com/PioneerCode/pioneer-console-boilerplate</projectUrl>
     <licenseUrl>https://github.com/PioneerCode/pioneer-console-boilerplate/blob/master/LICENSE</licenseUrl>
-    <releaseNotes>Core dependency updates</releaseNotes>
+    <releaseNotes>https://github.com/PioneerCode/pioneer-console-boilerplate/blob/master/CHANGELOG.md</releaseNotes>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <packageTypes>
       <packageType name="Template" />
