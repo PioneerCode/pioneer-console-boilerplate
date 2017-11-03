@@ -7,6 +7,8 @@ Local
 Nuget
 - Build project
 - Run npm install on root
-  - Run default gulp task 
+  - Run default gulp task on root
 - Package: nuget pack
+  - Run on .template folder.
+  - You will download the nuget.exe and target it from the command line
 - Publish to nuget.org
