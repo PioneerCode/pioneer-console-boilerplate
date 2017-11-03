@@ -1,5 +1,10 @@
 ## Pioneer Code - Pioneer Console Boilerplate
 
+<a name="2.0"></a>
+# 2.0
+### Fixed
+* Migration to .Net Core 2.0
+
 <a name="1.0.6"></a>
 # 1.0.6
 ### Fixed
