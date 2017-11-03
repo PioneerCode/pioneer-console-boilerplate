@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1B05581-8290-4440-A0FC-73C1FB115E8C}"
 	ProjectSection(SolutionItems) = preProject
 		gulpfile.js = gulpfile.js
 		package.json = package.json
 		Pioneer.Console.Boilerplate.Template\Pioneer.Console.Boilerplate.Template.nuspec = Pioneer.Console.Boilerplate.Template\Pioneer.Console.Boilerplate.Template.nuspec
-		publish-readme.txt = publish-readme.txt
+		publish-readme.md = publish-readme.md
 		Pioneer.Console.Boilerplate.Template\Content\.template.config\template.json = Pioneer.Console.Boilerplate.Template\Content\.template.config\template.json
 	EndProjectSection
 EndProject
@@ -39,5 +39,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3EB29E-D0AB-4E67-8E25-9BFF4A3A0AD3}
 	EndGlobalSection
 EndGlobal

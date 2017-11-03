@@ -6,6 +6,7 @@ Local
 
 Nuget
 - Build project
-- Run default gulp task
+- Run npm install on root
+  - Run default gulp task 
 - Package: nuget pack
 - Publish to nuget.org
