@@ -2,7 +2,7 @@
 
 <a name="2.0"></a>
 # 2.0
-### Fixed
+### Changed
 * Migration to .Net Core 2.0
 
 <a name="1.0.6"></a>
