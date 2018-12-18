@@ -1,3 +1,7 @@
+[![](https://img.shields.io/nuget/v/Pioneer.Console.Boilerplate.svg)](https://www.nuget.org/packages/Pioneer.Console.Boilerplate/)
+[![](https://img.shields.io/nuget/dt/Pioneer.Console.Boilerplate.svg)](https://www.nuget.org/packages/Pioneer.Console.Boilerplate/)
+
+
 # Pioneer .NET Core Console Boilerplate
 Boilerplated .NET Core console application that includes dependency injection, logging and configuration. 
 
